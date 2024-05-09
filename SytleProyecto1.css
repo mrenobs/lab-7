@@ -24,6 +24,10 @@ nav{
     color: rgb(255, 255, 255);
     margin-right: 40px;
 }
+.contactus1{
+    color: rgb(255, 255, 255);
+
+}
 
 /* Estilos para la parte 1 */
 .parte1 {
@@ -324,7 +328,7 @@ background-color: rgb(255, 255, 255);
 }
 .section1{
     background-color: white;
-    width: 200px;
+    width: 220px;
     height: auto;
 
 }
